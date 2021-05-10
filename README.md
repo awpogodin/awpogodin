@@ -3,4 +3,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=awpogodin&label=Profile%20views&color=0e75b6&style=flat" alt="awpogodin" /> </p>
 	
-<img width="100%" src="https://media.giphy.com/media/l19ipdY2pjK3d8Omtz/giphy.gif" alt="">
+<img width="100%" src="https://media.giphy.com/media/ckr4W2ppxPBeIF8dx4/giphy.gif" alt="">
